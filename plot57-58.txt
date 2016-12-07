@@ -1,0 +1,61 @@
+year 57
+#1
+<div>
+    <a href="https://plot.ly/~latiez/53/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~latiez/53.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="latiez:53"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+#2
+<div>
+    <a href="https://plot.ly/~latiez/57/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~latiez/57.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="latiez:57"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+#3
+<div>
+    <a href="https://plot.ly/~latiez/60/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~latiez/60.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="latiez:60"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+#4
+<div>
+    <a href="https://plot.ly/~latiez/62/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~latiez/62.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="latiez:62"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+#5
+<div>
+    <a href="https://plot.ly/~latiez/64/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~latiez/64.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="latiez:64"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+year 58
+#1
+<div>
+    <a href="https://plot.ly/~latiez/39/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~latiez/39.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="latiez:39"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+#2
+<div>
+    <a href="https://plot.ly/~latiez/43/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~latiez/43.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="latiez:43"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+#3
+<div>
+    <a href="https://plot.ly/~latiez/47/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~latiez/47.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="latiez:47"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+#4
+<div>
+    <a href="https://plot.ly/~latiez/49/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~latiez/49.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="latiez:49"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+#5
+<div>
+    <a href="https://plot.ly/~latiez/51/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~latiez/51.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="latiez:51"  src="https://plot.ly/embed.js" async></script>
+</div>
